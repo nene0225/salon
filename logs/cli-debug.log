@@ -1,0 +1,90 @@
+2020-02-11 17:10:14 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /var/www/html/sample/config/bootstrap.php, line: 205
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/var/www/html/sample/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+require_once - ROOT/config/bootstrap.php, line 205
+Cake\Http\BaseApplication::bootstrap() - CORE/src/Http/BaseApplication.php, line 151
+App\Application::bootstrap() - APP/Application.php, line 38
+Cake\Console\CommandRunner::bootstrap() - CORE/src/Console/CommandRunner.php, line 189
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 132
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2020-02-11 17:19:17 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /var/www/html/sample/config/bootstrap.php, line: 205
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/var/www/html/sample/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+require_once - ROOT/config/bootstrap.php, line 205
+Cake\Http\BaseApplication::bootstrap() - CORE/src/Http/BaseApplication.php, line 151
+App\Application::bootstrap() - APP/Application.php, line 38
+Cake\Console\CommandRunner::bootstrap() - CORE/src/Console/CommandRunner.php, line 189
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 132
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2020-02-11 17:19:57 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /var/www/html/sample/config/bootstrap.php, line: 205
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/var/www/html/sample/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+require_once - ROOT/config/bootstrap.php, line 205
+Cake\Http\BaseApplication::bootstrap() - CORE/src/Http/BaseApplication.php, line 151
+App\Application::bootstrap() - APP/Application.php, line 38
+Cake\Console\CommandRunner::bootstrap() - CORE/src/Console/CommandRunner.php, line 189
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 132
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2020-02-11 17:20:20 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /var/www/html/sample/config/bootstrap.php, line: 205
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/var/www/html/sample/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+require_once - ROOT/config/bootstrap.php, line 205
+Cake\Http\BaseApplication::bootstrap() - CORE/src/Http/BaseApplication.php, line 151
+App\Application::bootstrap() - APP/Application.php, line 38
+Cake\Console\CommandRunner::bootstrap() - CORE/src/Console/CommandRunner.php, line 189
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 132
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2020-02-11 17:20:43 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /var/www/html/sample/config/bootstrap.php, line: 205
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/var/www/html/sample/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+require_once - ROOT/config/bootstrap.php, line 205
+Cake\Http\BaseApplication::bootstrap() - CORE/src/Http/BaseApplication.php, line 151
+App\Application::bootstrap() - APP/Application.php, line 38
+Cake\Console\CommandRunner::bootstrap() - CORE/src/Console/CommandRunner.php, line 189
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 132
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2020-02-11 17:20:54 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /var/www/html/sample/config/bootstrap.php, line: 205
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/var/www/html/sample/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+require_once - ROOT/config/bootstrap.php, line 205
+Cake\Http\BaseApplication::bootstrap() - CORE/src/Http/BaseApplication.php, line 151
+App\Application::bootstrap() - APP/Application.php, line 38
+Cake\Console\CommandRunner::bootstrap() - CORE/src/Console/CommandRunner.php, line 189
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 132
+[main] - ROOT/bin/cake.php, line 12
+
+
+
